@@ -4,7 +4,7 @@
 		  a challenge "Emdee five for life" in hackthebox
 ```````````````````````````````````````````````````````````````````````````````````````````````					 
 					 	REQUIREMENTS
-       				FireFox Browser, Python, Selenium, geckodriver
+       			FireFox Browser, Python, Selenium, geckodriver
 ```````````````````````````````````````````````````````````````````````````````````````````````
                                         INSTRUCTIONS
        before running make sure you have installed selenium, use the following code for that
