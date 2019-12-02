@@ -3,8 +3,8 @@
        this is a python scrpt used to automate filling in an encrypted text in order to solve 
 		  a challenge "Emdee five for life" in hackthebox
 ```````````````````````````````````````````````````````````````````````````````````````````````					 
-REQUIREMENTS
-       	FireFox Browser, Python, Selenium, geckodriver
+					REQUIREMENTS
+       		FireFox Browser, Python, Selenium, geckodriver
 ```````````````````````````````````````````````````````````````````````````````````````````````
                                         INSTRUCTIONS
        before running make sure you have installed selenium, use the following code for that
