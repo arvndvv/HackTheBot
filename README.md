@@ -16,3 +16,6 @@
        for linux extract geckodriver to /usr/local/bin/    
 			 and make it executable using
 			 chmod +x geckodriver
+       Change the port on the address provided in variable named url
+       run the code if it works without error execution stops at the flag
+       if error occurs rerun the code until it shows the flag
